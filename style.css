@@ -1,0 +1,46 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+
+html, body {
+    padding: 0;
+    margin: 0;
+    font-family: Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+.hero-main-container > *,
+.hero-main-container button,
+footer {
+    color: white;
+}
+
+ul {
+    list-style-type: none;
+}
+
+.hero-main-container, footer {
+    background-color: #1F2937;
+    padding: 0 15%;
+}
+
+header {
+    border: 1px red solid;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.header-logo {
+    border: 1px red solid;
+    font-size: 24px;
+    font-weight: bolder;
+}
+
+nav {
+    padding: 0;
+    border: 1px red solid;
+}
+
+nav ul {
+    padding: 0;
+    display: flex;
+    gap: 16px;
+}
