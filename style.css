@@ -83,6 +83,10 @@ nav li{
     padding: 8px 32px;
 }
 
+.hero-btn:hover {
+    cursor: pointer;
+}
+
 .hero-image {
     /* border: 3px rgb(0, 183, 255) solid; */
     display: flex;
