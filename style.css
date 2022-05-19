@@ -46,6 +46,7 @@ header {
     font-size: 36px;
     color: #f9faf8;
     font-weight: 900;
+    cursor: pointer;
 }
 
 nav ul {
@@ -55,6 +56,7 @@ nav ul {
 
 nav li{
     list-style-type: none;
+    cursor: pointer;
 }
 
 .hero {
@@ -227,6 +229,7 @@ nav li{
 }
 
 .sign-up-btn {
+    cursor: pointer;
     font-weight: bolder;
     font-size: 18px;
     border-style: none;
@@ -244,4 +247,8 @@ footer {
     color: white;
     padding: 36px 0;
     width: 100%;
+}
+
+footer a {
+    color: white;
 }
