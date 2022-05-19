@@ -71,4 +71,8 @@ nav li{
     border: 3px rgb(0, 183, 255) solid;
     display: flex;
     flex: 1 1 0;
+    background-image: url('https://img4.goodfon.com/wallpaper/nbig/2/6c/liagushka-tsvetok-shliapka-mokh.jpg');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 100% auto;
 }
